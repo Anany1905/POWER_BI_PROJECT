@@ -33,5 +33,6 @@ Future improvements may include real-time data integration, predictive sales ana
 
 Screenshort / Demo
 
-link:
+Example:
+
 (https://github.com/Anany1905/POWER_BI_PROJECT/blob/main/FINAM%20OUTPUT.png)
